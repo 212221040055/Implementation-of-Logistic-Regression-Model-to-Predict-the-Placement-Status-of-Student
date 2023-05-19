@@ -95,6 +95,7 @@ print(classification_report1)
 
 print("Prediction of LR")
 lr.predict([[1,80,1,90,1,1,90,1,0,85,1,85]])
+![image](https://github.com/212221040055/Implementation-of-Logistic-Regression-Model-to-Predict-the-Placement-Status-of-Student/assets/128135323/f840fc3e-d52b-4ab1-8c17-033fa14ae612)
 
 ![Screenshot 2023-05-19 133221](https://github.com/212221040055/Implementation-of-Logistic-Regression-Model-to-Predict-the-Placement-Status-of-Student/assets/128135323/e5fe8817-dde4-4a5c-9b60-6b408ae32edd)
 ![Screenshot 2023-05-19 133241](https://github.com/212221040055/Implementation-of-Logistic-Regression-Model-to-Predict-the-Placement-Status-of-Student/assets/128135323/913da82a-3c86-4704-b19c-4fdf1e1482c3)
