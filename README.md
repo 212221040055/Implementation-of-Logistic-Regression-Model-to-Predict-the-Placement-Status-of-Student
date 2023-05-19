@@ -29,7 +29,7 @@ To write a program to implement the the Logistic Regression Model to Predict the
 Program to implement the the Logistic Regression Model to Predict the Placement Status of Student.
 Developed by:Hemavathi.N 
 RegisterNumber: 212221040055
-*/[Implementation-of-Logistic-Regression-Model-to-Predict-the-Placement-Status-of-Student_README.md at main · pragalyaashree_Implementation-of-Logistic-Regression-Model-to-Predict-the-Placement-Status-of-Student · Git.pdf](https://github.com/212221040055/Implementation-of-Logistic-Regression-Model-to-Predict-the-Placement-Status-of-Student/files/11514752/Implementation-of-Logistic-Regression-Model-to-Predict-the-Placement-Status-of-Student_README.md.at.main.pragalyaashree_Implementation-of-Logistic-Regression-Model-to-Predict-the-Placement-Status-of-Student.Git.pdf)
+*/[Implementation-of-Logistic-Regression-Model-to-Predict-the-Placement-Status-of-Student_README.md at main · pragalyaashree_Implementation-of-Logistic-Regression-Model-to-Predict-the-Placement-Status-of-Student · Git.zip](https://github.com/212221040055/Implementation-of-Logistic-Regression-Model-to-Predict-the-Placement-Status-of-Student/files/11514794/Implementation-of-Logistic-Regression-Model-to-Predict-the-Placement-Status-of-Student_README.md.at.main.pragalyaashree_Implementation-of-Logistic-Regression-Model-to-Predict-the-Placement-Status-of-Student.Git.zip)
 
 ## Result:
 
